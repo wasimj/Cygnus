@@ -107,7 +107,7 @@ If you'd like to run your own instance of Better ChatGPT, you can easily do so b
 
 One click deploy with Vercel
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fztjhz%2FBetterChatGPT)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwasimj%2FCygnus)
 
 ## GitHub Pages
 
